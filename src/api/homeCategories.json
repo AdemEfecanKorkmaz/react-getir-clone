@@ -1,0 +1,62 @@
+[
+    {
+        "id"    : 1,
+        "title" : "Su & İçecek",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/f9b26950-a462-49b2-9536-e8a383194182.png"
+    },
+    {
+        "id"    : 2,
+        "title" : "Meyve & Sebze",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/13a7fc68-fc66-45fb-abf3-a9dfb299cfda.png"
+    },
+    {
+        "id"    : 3,
+        "title" : "Fırından",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/d3b6744b-1ebd-409f-8073-4cf17b97a8c7.png"
+    },
+    {
+        "id"    : 4,
+        "title" : "Temel Gıda",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/eb1f6a52-7efc-46d9-9712-33bfc3b37038.png"
+    },
+    {
+        "id"    : 5,
+        "title" : "Dondurma",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/5d0c050c-fbc5-46db-b4dc-5f840759746d.png"
+    },
+    {
+        "id"    : 6,
+        "title" : "Süt Ürünleri",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/12234b89-0519-41d1-baf3-b70728620247.png"
+    },
+    {
+        "id"    : 1,
+        "title" : "Su & İçecek",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/f9b26950-a462-49b2-9536-e8a383194182.png"
+    },
+    {
+        "id"    : 2,
+        "title" : "Meyve & Sebze",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/13a7fc68-fc66-45fb-abf3-a9dfb299cfda.png"
+    },
+    {
+        "id"    : 3,
+        "title" : "Fırından",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/d3b6744b-1ebd-409f-8073-4cf17b97a8c7.png"
+    },
+    {
+        "id"    : 4,
+        "title" : "Temel Gıda",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/eb1f6a52-7efc-46d9-9712-33bfc3b37038.png"
+    },
+    {
+        "id"    : 5,
+        "title" : "Dondurma",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/5d0c050c-fbc5-46db-b4dc-5f840759746d.png"
+    },
+    {
+        "id"    : 6,
+        "title" : "Süt Ürünleri",
+        "image" : "https://market-product-images-cdn.getirapi.com/category/12234b89-0519-41d1-baf3-b70728620247.png"
+    }
+]

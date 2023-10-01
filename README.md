@@ -1,2 +1,1 @@
-# react-getir-clone
- Getir Front-end Clone with React
+# GETİR FRONT-END CLONE WİTH REACT
